@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documents>
+  <document>
+    <title>Document 1</title>
+    <author>John Doe</author>
+  </document>
+  <document>
+    <title>Document 2</title>
+    <author>Jane Smith</author>
+  </document>
+</documents>

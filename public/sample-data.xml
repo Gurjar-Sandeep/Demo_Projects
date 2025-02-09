@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tasks>
+  <Record>
+    <TaskId>1001</TaskId>
+    <BdmsId>BDMS_001</BdmsId>
+    <DocumentId>DOC_12345</DocumentId>
+  </Record>
+  <Record>
+    <TaskId>1002</TaskId>
+    <BdmsId>BDMS_002</BdmsId>
+    <DocumentId>DOC_12346</DocumentId>
+  </Record>
+</Tasks>
